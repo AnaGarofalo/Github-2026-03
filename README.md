@@ -1,4 +1,4 @@
 Este es un repo de ejemplo
 
-Este va a ser el contenido del primer commit
+Este commit se hizo desde github
 Esta es una línea para el 2do commit

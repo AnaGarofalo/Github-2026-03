@@ -2,6 +2,3 @@ Este es el archivo 1 - rama local 2
 
 # Perdón por el código tan feo
 Estos son los cambios de la feature 1
-
-
-Este commit se va a revertir
